@@ -1,0 +1,27 @@
+{
+  "name": "amaztrace-backend",
+  "version": "1.0.0",
+  "description": "Smart Contract implementation of supply chain traceability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcofailache/amaztrace-traceability.git"
+  },
+  "keywords": [
+    "blockchain",
+    "traceability"
+  ],
+  "author": "Marco Failache Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcofailache/amaztrace-traceability/issues"
+  },
+  "homepage": "https://github.com/marcofailache/amaztrace-traceability#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
